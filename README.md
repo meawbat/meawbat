@@ -20,11 +20,12 @@ My goal is to design and develop experiences that are simple, beautiful, and eas
 <hr>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🎨 Passionate about <strong>UI/UX Design</strong> and <strong>Front-End Development</strong>.</li>
-<li>🌱 Currently improving my <strong>responsive design</strong> and <strong>modern layouts</strong> skills.</li>
-<li>💻 Love transforming ideas into real projects on <a href="https://github.com/your-username">GitHub</a>.</li>
-<li>✨ Always curious to learn and grow in web development.</li>
+
+<ul>  
+<li>💻 Specialized in <strong>Front-End Development</strong> with <strong>HTML, CSS, and Figma</strong>.</li>  
+<li>🎯 Focused on building <strong>practical, responsive, and user-friendly</strong> interfaces.</li>  
+<li>📂 Sharing my projects and experiments on <a href="https://github.com/your-username">GitHub</a>.</li>  
+<li>🚀 Always improving my skills and learning new tools in web development.</li>  
 </ul>
 
 <hr>
