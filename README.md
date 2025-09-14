@@ -12,7 +12,11 @@ My goal is to design and develop experiences that are simple, beautiful, and eas
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge"></a>
 </p>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzcnQzcW5obDFvMnY0MWdoM2Y3ZTNqZTFhNTVndjA2cnRhcW1keiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="400"/>
+<div style="position: relative; z-index: 1;">
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzcnQzcW5obDFvMnY0MWdoM2Y3ZTNqZTFhNTVndjA2cnRhcW1keiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="400"/>
+</div>
+
+<hr>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -22,6 +26,8 @@ My goal is to design and develop experiences that are simple, beautiful, and eas
 <li>✨ Always curious to learn and grow in web development.</li>
 </ul>
 
+<hr>
+
 <h2>🚀 Tools & Technologies</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -29,6 +35,8 @@ My goal is to design and develop experiences that are simple, beautiful, and eas
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 </p>
+
+<hr>
 
 <h2>📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats"/>
