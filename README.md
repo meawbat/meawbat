@@ -39,4 +39,4 @@ My goal is to design and develop experiences that are simple, beautiful, and eas
 <hr>
 
 <h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meawbat&show_icons=true&theme=radical" alt="GitHub stats"/>
