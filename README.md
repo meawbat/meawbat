@@ -12,7 +12,7 @@ My goal is to design and develop experiences that are simple, beautiful, and eas
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge"></a>
 </p>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzcnQzcW5obDFvMnY0MWdoM2Y3ZTNqZTFhNTVndjA2cnRhcW1keiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzcnQzcW5obDFvMnY0MWdoM2Y3ZTNqZTFhNTVndjA2cnRhcW1keiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="400"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
